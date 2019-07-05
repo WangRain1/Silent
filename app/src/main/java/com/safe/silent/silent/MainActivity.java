@@ -25,8 +25,6 @@ import org.json.JSONObject;
 
 public class MainActivity extends AppCompatActivity {
 
-    //我操牛逼，启动安全模式，启动追踪模式
-
     TextView textView;
 
     TextView te_result;
